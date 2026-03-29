@@ -4,12 +4,6 @@
 
 Implementation of parameter-efficient fine-tuning methods for BERT, including LoRA and Adapter layers. Due to environment constraints, results were generated using Google Colab.
 
-## 📌 Submission Note
-This repository contains:
-- Minimal structure meeting assignment requirements
-- Google Colab notebook for result generation
-- Results table for academic submission
-
 All experiments were run using the provided Colab notebook. The repository structure follows academic best practices while acknowledging the computational constraints.
 
 ## 📊 Results Summary
